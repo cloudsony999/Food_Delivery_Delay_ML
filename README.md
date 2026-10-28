@@ -355,7 +355,7 @@ The web application provides a clean interface where users can enter delivery de
 ### 1. Clone the Repository
 
 ````bash
-git clone https://github.com/latenightcoder-git/Food-Delivery-Time-Predictor.git
+git clone https://github.com/cloudsony999/Food_Delivery_Delay_ML
 ``
 
 Then move into the project directory:
